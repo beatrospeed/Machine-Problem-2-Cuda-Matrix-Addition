@@ -1,0 +1,2 @@
+C:\Users\chris\source\repos\MP2_Masloub\x64\Debug\MP2_Masloub.exe
+C:\Users\chris\source\repos\MP2_Masloub\x64\Debug\MP2_Masloub.pdb

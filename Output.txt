@@ -1,0 +1,96 @@
+100 x 100 matrix addition.
+
+The CPU took 74 to complete the computation.
+
+The GPU took 164 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 261 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 169 to complete the computation with one thread per Column.
+
+Test PASSED
+
+200 x 200 matrix addition.
+
+The CPU took 279 to complete the computation.
+
+The GPU took 88 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 461 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 278 to complete the computation with one thread per Column.
+
+Test PASSED
+
+500 x 500 matrix addition.
+
+The CPU took 1831 to complete the computation.
+
+The GPU took 290 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 1240 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 719 to complete the computation with one thread per Column.
+
+Test PASSED
+
+1000 x 1000 matrix addition.
+
+The CPU took 7408 to complete the computation.
+
+The GPU took 429 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 2422 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 1393 to complete the computation with one thread per Column.
+
+Test PASSED
+
+1500 x 1500 matrix addition.
+
+The CPU took 16146 to complete the computation.
+
+The GPU took 670 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 4341 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 1978 to complete the computation with one thread per Column.
+
+Test PASSED
+
+5000 x 5000 matrix addition.
+
+The CPU took 181010 to complete the computation.
+
+The GPU took 5687 to complete the computation with one thread per element.
+
+Test PASSED
+
+The GPU took 55888 to complete the computation with one thread per Row.
+
+Test PASSED
+
+The GPU took 18409 to complete the computation with one thread per Column.
+
+Test PASSED
+
